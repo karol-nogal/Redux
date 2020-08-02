@@ -1,0 +1,14 @@
+@import "~antd/dist/antd.css";
+
+.counter_content {
+  padding: 50px;
+  height: calc(100vh - 64px);
+}
+
+.counter_text {
+  font-size: 1.25rem;
+}
+
+.counter_button {
+  margin-right: 16px;
+}

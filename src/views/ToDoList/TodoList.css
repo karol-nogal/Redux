@@ -1,0 +1,14 @@
+@import "~antd/dist/antd.css";
+
+.todo_content {
+  padding: 50px;
+  height: calc(100vh - 64px);
+}
+
+.todo_list-item {
+  margin: 0 auto;
+}
+
+.todo_list-item--done {
+  text-decoration: line-through;
+}

@@ -1,0 +1,9 @@
+.shop_content {
+  padding: 50px;
+  min-height: calc(100vh - 64px);
+}
+
+.shop__box {
+  margin: 0 auto;
+  width: 50%;
+}

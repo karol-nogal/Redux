@@ -1,0 +1,16 @@
+.shopping-cart__container {
+  float: right;
+}
+
+.shopping-cart__icon {
+  font-size: 20px;
+}
+
+.shopping-cart__list {
+  list-style: none;
+}
+
+.shoppin-cart-content__icon:hover,
+.shopping-cart__icon:hover {
+  cursor: pointer;
+}
